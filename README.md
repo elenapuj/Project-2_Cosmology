@@ -5,8 +5,8 @@ This repository contains programs that will help us computing the abundance of t
 
 First, we have the file "Section_c.py" where we have calculated the value of Ω_r0.
 
-Then, with the files "Section_f.py", "Section_h.py" and "Section_i.py" we produce all the plots stored in the folder "Plots". We produce "Figure1.pdf" and "C(r)_T2.pdf" with the first of the mentioned python files and we obtain the rest of the plots using the second mentioned python file.
+Then, with the files "Section_f.py", "Section_h.py" and "Section_i.py" we produce all the plots stored in the folder "Plots". We produce "Figure 1.pdf" with the first of the mentioned python files, "Figure 2.py" with the second one and "Figure 3.py" with the third one.
 
 For executing the .py files in your terminal, you just have to write (in the case of, for example, the first one):
 
-Run: python3 Oblig2_1D_SM.py
+Run: python3 Section_c.py
